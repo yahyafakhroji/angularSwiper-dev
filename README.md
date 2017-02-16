@@ -5,7 +5,7 @@ License: Apache
 ## 1 Installation
 
 ```
-bower install angular-swiper
+bower install angularSwiper-dev
 ```
 
 ## 2 Development
